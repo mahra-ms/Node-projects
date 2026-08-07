@@ -1,0 +1,17 @@
+Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code outside the browser. It was created by
+Ryan Dahl
+in 2009 and is built on Google Chrome’s V8 JavaScript engine.
+
+Node.js is widely used for server-side programming, REST APIs, real-time applications, microservices, and network-based applications.
+
+Key Features
+
+Asynchronous and event-driven: Uses non-blocking I/O operations, allowing multiple requests to be handled efficiently.
+
+Single-threaded architecture: Uses an event loop to manage concurrent operations without creating a new thread for each request.
+
+Fast execution: Powered by the V8 engine, which compiles JavaScript into machine code.
+
+Cross-platform support: Runs on Windows, Linux, and macOS.
+
+NPM (Node Package Manager): Provides thousands of reusable libraries and packages for development
